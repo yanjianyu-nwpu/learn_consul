@@ -1,5 +1,7 @@
 # Introduction
 
+doc: https://book-consul-guide.vnzmi.com/05_regist_service.html
+
 ## 0 what is consul
 
 consul是多网络工具提供全特征的 service mesh 解决方案         。
